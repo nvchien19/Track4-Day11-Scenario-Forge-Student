@@ -1,5 +1,10 @@
 __pycache__/
+*.py[cod]
 .pytest_cache/
 .venv/
-evidence/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+.chrome-headless/
 .DS_Store
+Thumbs.db
