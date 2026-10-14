@@ -3,7 +3,8 @@ MSSV: 202602926
 # Lab 11 · Scenario Forge — báo cáo
 
 Họ tên: Nguyễn Văn Chiến
-Thị trấn (`meta.json: _run.town`): **B**
+Địa phương: **Thị trấn Văn Giang**
+Biến thể mô phỏng (`meta.json: _run.town`): **B**
 
 Mỗi câu: trả lời ngắn, **trích số từ `evidence/`** (ghi tên file và trường, ví dụ `mc.json: crashes = 4`). Grader chạy lại với MSSV của bạn; số không khớp `evidence/` thì mất điểm phần D (RUBRIC), và câu dựa trên số sai khó được điểm đầy đủ. Không cần văn hay: một bảng nhỏ và hai, ba câu giải thích là đủ.
 
